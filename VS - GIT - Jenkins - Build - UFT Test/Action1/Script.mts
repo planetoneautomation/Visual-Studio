@@ -2,7 +2,7 @@
 SystemUtil.Run "C:\Users\Doug\Documents\GitHub\Visual-Studio\bin\Debug\VS Integration with GIT.exe"
 
 ' verify label text
-sLabelText = SwfWindow("VS Integration with GIT").SwfLabel("VS ---> GIT ---> Jenkins").GetROProperty("text")
+sLabelText = SwfWindow("VS Integration with GIT").SwfLabel("The Label").GetROProperty("text")
 
 If sLabelText = "VS ---> GIT ---> Jenkins" Then
 	Reporter.ReportEvent micPass, "Verify Label", "Label text is: '" & sLabelText & "'"
