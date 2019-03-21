@@ -6,178 +6,10 @@
 <ReportNode type="Step">
 <Data>
     <Name>SystemUtil.Run "C:\Users\Doug\Documents\GitHub\Visual-Studio\bin\Debug\VS Integration with GIT.exe",1</Name>
-    <StartTime>2019-03-21 12:49:40</StartTime>
+    <StartTime>2019-03-21 13:01:41</StartTime>
     <Result>Done</Result>
     <Extension>
-      <IconKey>6a10222cd63248729ddb257331af1d77</IconKey>
-      <IsPlainTextNodeName>True</IsPlainTextNodeName>
-    </Extension>
-  </Data>
-</ReportNode>
-<ReportNode type="Context">
-<ReportNode type="Step">
-<Data>
-    <Name>VS ---&gt; GIT ---&gt; Jenkins.GetROProperty "text"</Name>
-    <Description />
-    <StartTime>2019-03-21 12:50:01</StartTime>
-    <Result>Warning</Result>
-    <Extension>
-      <TestObject>
-        <Repository>Local</Repository>
-        <Path>
-          <Object>
-            <Type>SwfWindow</Type>
-            <Name><![CDATA[VS Integration with GIT]]></Name>
-          </Object>
-          <Object>
-            <Type>SwfLabel</Type>
-            <Name><![CDATA[VS ---> GIT ---> Jenkins]]></Name>
-          </Object>
-        </Path>
-        <Operation>GetROProperty "text"</Operation>
-        <Properties>
-          <Property>
-            <Name><![CDATA[text]]></Name>
-            <Value><![CDATA[VS ---&gt; GIT ---&gt; Jenkins]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[swfname]]></Name>
-            <Value><![CDATA[Label1]]></Value>
-          </Property>
-        </Properties>
-      </TestObject>
-      <IconKey>47f3b3b3c85345aba99a3ff71a8dd863</IconKey>
-      <IsPlainTextNodeName>True</IsPlainTextNodeName>
-    </Extension>
-  </Data>
-</ReportNode>
-<Data>
-    <Name>VS Integration with GIT</Name>
-    <Description>SwfWindow</Description>
-    <StartTime>2019-03-21 12:50:01</StartTime>
-    <Duration>0</Duration>
-    <Result>Warning</Result>
-    <Extension>
-      <TestObject>
-        <Repository>Local</Repository>
-        <Path>
-          <Object>
-            <Type>SwfWindow</Type>
-            <Name><![CDATA[VS Integration with GIT]]></Name>
-          </Object>
-        </Path>
-        <OperationData><![CDATA[SwfWindow]]></OperationData>
-        <Properties>
-          <Property>
-            <Name><![CDATA[swfname]]></Name>
-            <Value><![CDATA[Form1]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[regexpwndtitle]]></Name>
-            <Value><![CDATA[VS Integration with GIT]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[is owned window]]></Name>
-            <Value><![CDATA[False]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[is child window]]></Name>
-            <Value><![CDATA[False]]></Value>
-          </Property>
-        </Properties>
-      </TestObject>
-      <IconKey>5c7e0bc26eaa4ef6b47c4332f178b7af</IconKey>
-      <IsPlainTextNodeName>True</IsPlainTextNodeName>
-    </Extension>
-  </Data>
-</ReportNode>
-<ReportNode type="Context">
-<ReportNode type="Step">
-<Data>
-    <Name>VS ---&gt; GIT ---&gt; Jenkins</Name>
-    <ErrorText>Cannot identify the object "VS ---&gt; GIT ---&gt; Jenkins" (of class SwfLabel).
-Verify that this object's properties match an object currently displayed in your application.</ErrorText>
-    <Description>Cannot&amp;nbsp;identify&amp;nbsp;the&amp;nbsp;object&amp;nbsp;"VS&amp;nbsp;---&amp;gt;&amp;nbsp;GIT&amp;nbsp;---&amp;gt;&amp;nbsp;Jenkins"&amp;nbsp;(of&amp;nbsp;class&amp;nbsp;SwfLabel).&lt;br/&gt;Verify&amp;nbsp;that&amp;nbsp;this&amp;nbsp;object's&amp;nbsp;properties&amp;nbsp;match&amp;nbsp;an&amp;nbsp;object&amp;nbsp;currently&amp;nbsp;displayed&amp;nbsp;in&amp;nbsp;your&amp;nbsp;application.&lt;br/&gt;&lt;br/&gt;Object's physical description:&lt;br&gt;Text = VS ---&amp;gt GIT ---&amp;gt Jenkins&lt;br&gt;swfname = Label1&lt;br&gt;miccommentproperty = &lt;br&gt;</Description>
-    <StartTime>2019-03-21 12:50:01</StartTime>
-    <Result>Failed</Result>
-    <Extension>
-      <StackTrace>
-        <StackFrame>
-          <ModuleName><![CDATA[Action1]]></ModuleName>
-          <FileName><![CDATA[Action1]]></FileName>
-          <Language><![CDATA[VBScript - script block]]></Language>
-          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
-          <Scripts><![CDATA[sLabelText = SwfWindow("VS Integration with GIT").SwfLabel("VS ---> GIT ---> Jenkins").GetROProperty("text")]]></Scripts>
-          <LineNo><![CDATA[5]]></LineNo>
-        </StackFrame>
-      </StackTrace>
-      <TestObject>
-        <Repository>Local</Repository>
-        <Path>
-          <Object>
-            <Type>SwfWindow</Type>
-            <Name><![CDATA[VS Integration with GIT]]></Name>
-          </Object>
-          <Object>
-            <Type>SwfLabel</Type>
-            <Name><![CDATA[VS ---> GIT ---> Jenkins]]></Name>
-          </Object>
-        </Path>
-        <OperationData><![CDATA[Cannot&nbsp;identify&nbsp;the&nbsp;object&nbsp;"VS&nbsp;---&gt;&nbsp;GIT&nbsp;---&gt;&nbsp;Jenkins"&nbsp;(of&nbsp;class&nbsp;SwfLabel).<br/>Verify&nbsp;that&nbsp;this&nbsp;object's&nbsp;properties&nbsp;match&nbsp;an&nbsp;object&nbsp;currently&nbsp;displayed&nbsp;in&nbsp;your&nbsp;application.]]></OperationData>
-        <Properties>
-          <Property>
-            <Name><![CDATA[text]]></Name>
-            <Value><![CDATA[VS ---&gt; GIT ---&gt; Jenkins]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[swfname]]></Name>
-            <Value><![CDATA[Label1]]></Value>
-          </Property>
-        </Properties>
-      </TestObject>
-      <IconKey>47f3b3b3c85345aba99a3ff71a8dd863</IconKey>
-      <IsPlainTextNodeName>True</IsPlainTextNodeName>
-      <NodeType>Run Error</NodeType>
-    </Extension>
-    <Snapshot reference="Resources\Snapshots\ce9faada-563b-49f1-b7b6-f9f67e1af207.jpeg" highlight="0,0,832,546" />
-  </Data>
-</ReportNode>
-<Data>
-    <Name>VS Integration with GIT</Name>
-    <Description>SwfWindow</Description>
-    <StartTime>2019-03-21 12:50:01</StartTime>
-    <Duration>0</Duration>
-    <Result>Failed</Result>
-    <Extension>
-      <TestObject>
-        <Repository>Local</Repository>
-        <Path>
-          <Object>
-            <Type>SwfWindow</Type>
-            <Name><![CDATA[VS Integration with GIT]]></Name>
-          </Object>
-        </Path>
-        <OperationData><![CDATA[SwfWindow]]></OperationData>
-        <Properties>
-          <Property>
-            <Name><![CDATA[swfname]]></Name>
-            <Value><![CDATA[Form1]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[regexpwndtitle]]></Name>
-            <Value><![CDATA[VS Integration with GIT]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[is owned window]]></Name>
-            <Value><![CDATA[False]]></Value>
-          </Property>
-          <Property>
-            <Name><![CDATA[is child window]]></Name>
-            <Value><![CDATA[False]]></Value>
-          </Property>
-        </Properties>
-      </TestObject>
-      <IconKey>5c7e0bc26eaa4ef6b47c4332f178b7af</IconKey>
+      <IconKey>b6c59ab9aac749af875e06380bd63ae8</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -185,11 +17,11 @@ Verify that this object's properties match an object currently displayed in your
 <ReportNode type="User">
 <Data>
     <Name>Verify Label</Name>
-    <Description>Label text is: ''</Description>
-    <StartTime>2019-03-21 12:50:01</StartTime>
+    <Description>Label text is: 'VS -&gt; GIT -&gt; Jenkins'</Description>
+    <StartTime>2019-03-21 13:01:42</StartTime>
     <Result>Failed</Result>
     <Extension>
-      <IconKey>f53017e5a905498c932bb7b30d7b41dd</IconKey>
+      <IconKey>96e429470dfa4a74941cd443aaf7df7f</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
       <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
     </Extension>
@@ -200,7 +32,7 @@ Verify that this object's properties match an object currently displayed in your
 <Data>
     <Name>Close.Click</Name>
     <Description />
-    <StartTime>2019-03-21 12:50:02</StartTime>
+    <StartTime>2019-03-21 13:01:43</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -223,7 +55,7 @@ Verify that this object's properties match an object currently displayed in your
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>dfc8473e3f814d459e7e1d0f3d4c9e2f</IconKey>
+      <IconKey>a8f43f990b704d869da7e588ec887f52</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -231,7 +63,7 @@ Verify that this object's properties match an object currently displayed in your
 <Data>
     <Name>VS Integration with GIT</Name>
     <Description>SwfWindow</Description>
-    <StartTime>2019-03-21 12:50:02</StartTime>
+    <StartTime>2019-03-21 13:01:43</StartTime>
     <Duration>0</Duration>
     <Result>Done</Result>
     <Extension>
@@ -263,7 +95,7 @@ Verify that this object's properties match an object currently displayed in your
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>5c7e0bc26eaa4ef6b47c4332f178b7af</IconKey>
+      <IconKey>368cba4531f1405e972127820ccdc4cd</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -271,12 +103,12 @@ Verify that this object's properties match an object currently displayed in your
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2019-03-21 12:49:40</StartTime>
-    <Duration>22</Duration>
+    <StartTime>2019-03-21 13:01:41</StartTime>
+    <Duration>2</Duration>
     <Result>Failed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>9d9dce0505fc496aabb2c5e6e6500a06</IconKey>
+      <IconKey>106e847ec3cc45ebadda666fc59a1a3f</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -284,11 +116,11 @@ Verify that this object's properties match an object currently displayed in your
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2019-03-21 12:49:39</StartTime>
-    <Duration>23</Duration>
+    <StartTime>2019-03-21 13:01:41</StartTime>
+    <Duration>2</Duration>
     <Result>Failed</Result>
     <Extension>
-      <IconKey>48aead8750764ca5864d56f87f71aa74</IconKey>
+      <IconKey>919a133f7fe64e5eae06ad43d3ec6785</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -300,12 +132,12 @@ Verify that this object's properties match an object currently displayed in your
     <ToolName>HPE Unified Functional Testing</ToolName>
     <ToolVersion>14.02</ToolVersion>
     <Description />
-    <StartTime>2019-03-21 12:49:38</StartTime>
-    <Duration>24</Duration>
+    <StartTime>2019-03-21 13:01:40</StartTime>
+    <Duration>3</Duration>
     <Result>Failed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>c7004cdaa46f4fe8a7a2f6aacc78dca0</IconKey>
+      <IconKey>9ff7011348454bd084bc1d7468d05ec6</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
@@ -326,7 +158,7 @@ Verify that this object's properties match an object currently displayed in your
 </ReportNode>
 <GeneralInfo>
     <ResultName>VS - GIT - Jenkins - Build - UFT Test</ResultName>
-    <RunStartTime>2019-03-21 12:49:38</RunStartTime>
+    <RunStartTime>2019-03-21 13:01:40</RunStartTime>
     <Timezone>-04:00:00</Timezone>
     <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
     <OrchestrationToolVersion>14.02</OrchestrationToolVersion>
