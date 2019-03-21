@@ -10,7 +10,7 @@ Else
 	Reporter.ReportEvent micFail, "Verify Label", "Label text is: '" & sLabelText & "'"
 End If
 
-' close app
+' close application
 SwfWindow("VS Integration with GIT").SwfButton("Close").Click @@ hightlight id_;_4264430_;_script infofile_;_ZIP::ssf2.xml_;_
  @@ hightlight id_;_3674694_;_script infofile_;_ZIP::ssf1.xml_;_
 

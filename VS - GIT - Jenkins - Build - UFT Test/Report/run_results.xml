@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>SystemUtil.Run "C:\Users\Doug\Documents\GitHub\Visual-Studio\bin\Debug\VS Integration with GIT.exe",1</Name>
+    <StartTime>2019-03-21 09:34:11</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>09111e378e12486996a4b49b946c7904</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>Verify Label</Name>
+    <Description>Label text is: 'VS ---&gt; GIT ---&gt; Jenkins'</Description>
+    <StartTime>2019-03-21 09:34:11</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>25ab1ea8ca2c4ff3a1c0060655ad12b4</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Close.Click</Name>
+    <Description />
+    <StartTime>2019-03-21 09:34:12</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[VS Integration with GIT]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfButton</Type>
+            <Name><![CDATA[Close]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[Button1]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>aa53a6726de14abfb00e0451f6d2b0c0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>VS Integration with GIT</Name>
+    <Description>SwfWindow</Description>
+    <StartTime>2019-03-21 09:34:12</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[VS Integration with GIT]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[SwfWindow]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[Form1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[VS Integration with GIT]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>7052d4dbc5284d9f85d3e4cb5b24f39c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2019-03-21 09:34:10</StartTime>
+    <Duration>2</Duration>
+    <Result>Passed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>efef02233c1a453eb79b1e2855d369f4</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2019-03-21 09:34:10</StartTime>
+    <Duration>2</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>a5124e56068a4ccbadd279f7f5096edf</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>VS - GIT - Jenkins - Build - UFT Test</Name>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.02</ToolVersion>
+    <Description />
+    <StartTime>2019-03-21 09:34:10</StartTime>
+    <Duration>2</Duration>
+    <Result>Passed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>8f392646aef041ac879358ba2b48caa3</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>-04:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>Doug</User>
+      <CpuInfo>Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>8117</TotalMemory>
+      <HostName>PLANETONEAUTOMA</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>VS - GIT - Jenkins - Build - UFT Test</ResultName>
+    <RunStartTime>2019-03-21 09:34:10</RunStartTime>
+    <Timezone>-04:00:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.02</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>
