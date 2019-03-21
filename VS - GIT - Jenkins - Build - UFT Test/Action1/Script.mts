@@ -4,6 +4,7 @@ SystemUtil.Run "C:\Users\Doug\Documents\GitHub\Visual-Studio\bin\Debug\VS Integr
 ' verify label text
 sLabelText = SwfWindow("VS Integration with GIT").SwfLabel("The Label").GetROProperty("text")
 
+SwfWindow("VS Integration with GIT").Activate
 Wait 5
 
 If sLabelText = "VS ---> GIT ---> Jenkins ---> Octane" Then

@@ -6,10 +6,10 @@
 <ReportNode type="Step">
 <Data>
     <Name>SystemUtil.Run "C:\Users\Doug\Documents\GitHub\Visual-Studio\bin\Debug\VS Integration with GIT.exe",1</Name>
-    <StartTime>2019-03-21 19:21:02</StartTime>
+    <StartTime>2019-03-21 19:23:53</StartTime>
     <Result>Done</Result>
     <Extension>
-      <IconKey>0c3af38cd92146c5bb52b28dccafb4b7</IconKey>
+      <IconKey>8041a4ee6eae46908c6515f542fb8a09</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -18,10 +18,10 @@
 <Data>
     <Name>Verify Label</Name>
     <Description>Label text is: 'VS ---&gt; GIT ---&gt; Jenkins ---&gt; Octane'</Description>
-    <StartTime>2019-03-21 19:21:03</StartTime>
+    <StartTime>2019-03-21 19:23:59</StartTime>
     <Result>Passed</Result>
     <Extension>
-      <IconKey>7a69f5da4a6a4b6db29ef0df7b5359c4</IconKey>
+      <IconKey>bdcebab534264219a837ff7adcebb8d2</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
       <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
     </Extension>
@@ -32,7 +32,7 @@
 <Data>
     <Name>Close.Click</Name>
     <Description />
-    <StartTime>2019-03-21 19:21:03</StartTime>
+    <StartTime>2019-03-21 19:24:00</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -55,7 +55,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>91608d21edc848f686eb2f3e59125f45</IconKey>
+      <IconKey>ff690e4eb9ee4a96b3eb85d969f342a1</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -63,8 +63,8 @@
 <Data>
     <Name>VS Integration with GIT</Name>
     <Description>SwfWindow</Description>
-    <StartTime>2019-03-21 19:21:03</StartTime>
-    <Duration>1</Duration>
+    <StartTime>2019-03-21 19:24:00</StartTime>
+    <Duration>0</Duration>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -95,7 +95,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>d54c5c9296184f3d811c6791d24772c3</IconKey>
+      <IconKey>b4363b70741f473889dca3e35c38f477</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -103,12 +103,12 @@
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2019-03-21 19:21:01</StartTime>
-    <Duration>3</Duration>
+    <StartTime>2019-03-21 19:23:52</StartTime>
+    <Duration>8</Duration>
     <Result>Passed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>19138289298d49a5987103d604656386</IconKey>
+      <IconKey>3d0fb5cd705f4fd4a1d466ce7267c379</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -116,11 +116,11 @@
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2019-03-21 19:21:01</StartTime>
-    <Duration>3</Duration>
+    <StartTime>2019-03-21 19:23:52</StartTime>
+    <Duration>8</Duration>
     <Result>Passed</Result>
     <Extension>
-      <IconKey>370aa72224044d28b4049ab15b000887</IconKey>
+      <IconKey>e314aa6f00424e0fbd0e23be71e85dd8</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -132,12 +132,12 @@
     <ToolName>HPE Unified Functional Testing</ToolName>
     <ToolVersion>14.02</ToolVersion>
     <Description />
-    <StartTime>2019-03-21 19:21:01</StartTime>
-    <Duration>3</Duration>
+    <StartTime>2019-03-21 19:23:52</StartTime>
+    <Duration>8</Duration>
     <Result>Passed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>bcf9ebf815804a74b46512b0aafbf33e</IconKey>
+      <IconKey>21826aa816d0419f85b9b9ef968f83b5</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
@@ -158,7 +158,7 @@
 </ReportNode>
 <GeneralInfo>
     <ResultName>VS - GIT - Jenkins - Build - UFT Test</ResultName>
-    <RunStartTime>2019-03-21 19:21:01</RunStartTime>
+    <RunStartTime>2019-03-21 19:23:52</RunStartTime>
     <Timezone>-04:00:00</Timezone>
     <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
     <OrchestrationToolVersion>14.02</OrchestrationToolVersion>
