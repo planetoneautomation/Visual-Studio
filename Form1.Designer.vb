@@ -28,7 +28,7 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(598, 278)
+        Me.Button1.Location = New System.Drawing.Point(938, 305)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(136, 92)
         Me.Button1.TabIndex = 0
@@ -41,15 +41,15 @@ Partial Class Form1
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(77, 59)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(534, 55)
+        Me.Label1.Size = New System.Drawing.Size(708, 55)
         Me.Label1.TabIndex = 1
-        Me.Label1.Text = "VS ---> GIT ---> Jenkins"
+        Me.Label1.Text = "VS -> GIT -> Jenkins - > Octane"
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(1153, 450)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
