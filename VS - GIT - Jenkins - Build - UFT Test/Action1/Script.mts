@@ -4,7 +4,7 @@ SystemUtil.Run "C:\Users\Doug\Documents\GitHub\Visual-Studio\bin\Debug\VS Integr
 ' verify label text
 sLabelText = SwfWindow("VS Integration with GIT").SwfLabel("The Label").GetROProperty("text")
 
-If sLabelText = "VS ---> GIT ---> Jenkins" Then
+If sLabelText = "VS ---> GIT ---> Jenkins ---> Octane" Then
 	Reporter.ReportEvent micPass, "Verify Label", "Label text is: '" & sLabelText & "'"
 Else
 	Reporter.ReportEvent micFail, "Verify Label", "Label text is: '" & sLabelText & "'"

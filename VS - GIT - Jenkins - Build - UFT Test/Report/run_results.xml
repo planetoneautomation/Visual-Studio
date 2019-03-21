@@ -6,10 +6,10 @@
 <ReportNode type="Step">
 <Data>
     <Name>SystemUtil.Run "C:\Users\Doug\Documents\GitHub\Visual-Studio\bin\Debug\VS Integration with GIT.exe",1</Name>
-    <StartTime>2019-03-21 13:13:23</StartTime>
+    <StartTime>2019-03-21 13:16:54</StartTime>
     <Result>Done</Result>
     <Extension>
-      <IconKey>37aa65f10a8c4c6fb65e5dc8079bf730</IconKey>
+      <IconKey>651f7f2c3f0f4c119b760ae06bac860c</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -17,11 +17,11 @@
 <ReportNode type="User">
 <Data>
     <Name>Verify Label</Name>
-    <Description>Label text is: 'VS ---&gt; GIT ---&gt; Jenkins'</Description>
-    <StartTime>2019-03-21 13:13:24</StartTime>
-    <Result>Passed</Result>
+    <Description>Label text is: 'VS -&gt; GIT -&gt; Jenkins - &gt; Octane'</Description>
+    <StartTime>2019-03-21 13:16:55</StartTime>
+    <Result>Failed</Result>
     <Extension>
-      <IconKey>b2ea4230526d41c1a7d10758acb53eeb</IconKey>
+      <IconKey>53b3e3c5cdb0438cacd345c38abed515</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
       <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
     </Extension>
@@ -32,7 +32,7 @@
 <Data>
     <Name>Close.Click</Name>
     <Description />
-    <StartTime>2019-03-21 13:13:24</StartTime>
+    <StartTime>2019-03-21 13:16:56</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -55,7 +55,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>5a5745a996e7459ea035db887cd950c3</IconKey>
+      <IconKey>7915f25f2a9146b0ba0709cee326f858</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -63,7 +63,7 @@
 <Data>
     <Name>VS Integration with GIT</Name>
     <Description>SwfWindow</Description>
-    <StartTime>2019-03-21 13:13:24</StartTime>
+    <StartTime>2019-03-21 13:16:56</StartTime>
     <Duration>0</Duration>
     <Result>Done</Result>
     <Extension>
@@ -95,7 +95,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>41020ec352214f8f8276f8be806e574d</IconKey>
+      <IconKey>f00866918bcb45c4871946f3674dbf38</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -103,12 +103,12 @@
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2019-03-21 13:13:22</StartTime>
+    <StartTime>2019-03-21 13:16:54</StartTime>
     <Duration>2</Duration>
-    <Result>Passed</Result>
+    <Result>Failed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>d9b0d54bc374417ab792bf226160f31e</IconKey>
+      <IconKey>8e9c98faaf304efd8b6f0db695714fe7</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -116,11 +116,11 @@
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2019-03-21 13:13:22</StartTime>
+    <StartTime>2019-03-21 13:16:54</StartTime>
     <Duration>2</Duration>
-    <Result>Passed</Result>
+    <Result>Failed</Result>
     <Extension>
-      <IconKey>3899f239f1124f8cb972394d9b34892c</IconKey>
+      <IconKey>8f0e53d730f048a4a73002b04b34e4b2</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -132,12 +132,12 @@
     <ToolName>HPE Unified Functional Testing</ToolName>
     <ToolVersion>14.02</ToolVersion>
     <Description />
-    <StartTime>2019-03-21 13:13:21</StartTime>
+    <StartTime>2019-03-21 13:16:53</StartTime>
     <Duration>3</Duration>
-    <Result>Passed</Result>
+    <Result>Failed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>09a3338c0a9a40efb071ee6c7e494a70</IconKey>
+      <IconKey>2eb363feded5420fa1bc5b3cd9ffe4f4</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
@@ -158,7 +158,7 @@
 </ReportNode>
 <GeneralInfo>
     <ResultName>VS - GIT - Jenkins - Build - UFT Test</ResultName>
-    <RunStartTime>2019-03-21 13:13:21</RunStartTime>
+    <RunStartTime>2019-03-21 13:16:53</RunStartTime>
     <Timezone>-04:00:00</Timezone>
     <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
     <OrchestrationToolVersion>14.02</OrchestrationToolVersion>
