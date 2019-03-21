@@ -6,10 +6,10 @@
 <ReportNode type="Step">
 <Data>
     <Name>SystemUtil.Run "C:\Users\Doug\Documents\GitHub\Visual-Studio\bin\Debug\VS Integration with GIT.exe",1</Name>
-    <StartTime>2019-03-21 13:46:43</StartTime>
+    <StartTime>2019-03-21 14:03:31</StartTime>
     <Result>Done</Result>
     <Extension>
-      <IconKey>890856bcbe6f4ba68cf25eededccd85f</IconKey>
+      <IconKey>7a7630c986ce413b8c40c8ce834b6bd7</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -18,10 +18,10 @@
 <Data>
     <Name>Verify Label</Name>
     <Description>Label text is: 'VS ---&gt; GIT ---&gt; Jenkins ---&gt; Octane'</Description>
-    <StartTime>2019-03-21 13:46:44</StartTime>
+    <StartTime>2019-03-21 14:03:32</StartTime>
     <Result>Passed</Result>
     <Extension>
-      <IconKey>14d3e1acd958435db424749dd25eea09</IconKey>
+      <IconKey>6c34defef5a241709daffc15198d591a</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
       <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
     </Extension>
@@ -32,7 +32,7 @@
 <Data>
     <Name>Close.Click</Name>
     <Description />
-    <StartTime>2019-03-21 13:46:45</StartTime>
+    <StartTime>2019-03-21 14:03:32</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -55,7 +55,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>c2a4b05852b144a5a1955303a09ecf92</IconKey>
+      <IconKey>c95a701345e447bc8f6df72c6bd732b8</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -63,8 +63,8 @@
 <Data>
     <Name>VS Integration with GIT</Name>
     <Description>SwfWindow</Description>
-    <StartTime>2019-03-21 13:46:45</StartTime>
-    <Duration>0</Duration>
+    <StartTime>2019-03-21 14:03:32</StartTime>
+    <Duration>1</Duration>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -95,7 +95,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>62d33602db6d41baab1241630b2e0857</IconKey>
+      <IconKey>e31aec81d9744264a67f5241cc192918</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -103,12 +103,12 @@
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2019-03-21 13:46:43</StartTime>
+    <StartTime>2019-03-21 14:03:31</StartTime>
     <Duration>2</Duration>
     <Result>Passed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>53345f1333d047c0ad942fdf951dab73</IconKey>
+      <IconKey>96566f10d96e407c94a76fd4c0ac2cde</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -116,11 +116,11 @@
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2019-03-21 13:46:43</StartTime>
+    <StartTime>2019-03-21 14:03:31</StartTime>
     <Duration>2</Duration>
     <Result>Passed</Result>
     <Extension>
-      <IconKey>973734462a7840fa9070ff9c8f9f9ecc</IconKey>
+      <IconKey>c3a41a13068e428a92126127a5a386d8</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -132,12 +132,12 @@
     <ToolName>HPE Unified Functional Testing</ToolName>
     <ToolVersion>14.02</ToolVersion>
     <Description />
-    <StartTime>2019-03-21 13:46:43</StartTime>
-    <Duration>2</Duration>
+    <StartTime>2019-03-21 14:03:30</StartTime>
+    <Duration>3</Duration>
     <Result>Passed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>782589230e42446c94bd5932434e829f</IconKey>
+      <IconKey>916439445c834cfebee40425c38ac524</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
@@ -158,7 +158,7 @@
 </ReportNode>
 <GeneralInfo>
     <ResultName>VS - GIT - Jenkins - Build - UFT Test</ResultName>
-    <RunStartTime>2019-03-21 13:46:43</RunStartTime>
+    <RunStartTime>2019-03-21 14:03:30</RunStartTime>
     <Timezone>-04:00:00</Timezone>
     <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
     <OrchestrationToolVersion>14.02</OrchestrationToolVersion>
