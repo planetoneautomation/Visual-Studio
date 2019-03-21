@@ -1,3 +1,5 @@
 ﻿<Properties>
-  <WatchEntry0 value="SwfWindow(&quot;VS Integration with GIT&quot;).SwfLabel(&quot;VS ---&gt; GIT ---&gt; Jenkins&quot;).Exist" />
+  <WatchEntry0 value="sLabelText" />
+  <WatchEntry1 value="&quot;VS ---&gt; GIT ---&gt; Jenkins ---&gt; Octane&quot;" />
+  <WatchEntry2 value="123" />
 </Properties>
