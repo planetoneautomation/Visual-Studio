@@ -6,10 +6,10 @@
 <ReportNode type="Step">
 <Data>
     <Name>SystemUtil.Run "C:\Users\Doug\Documents\GitHub\Visual-Studio\bin\Debug\VS Integration with GIT.exe",1</Name>
-    <StartTime>2019-04-08 14:59:56</StartTime>
+    <StartTime>2019-04-08 15:03:36</StartTime>
     <Result>Done</Result>
     <Extension>
-      <IconKey>a7dd411778c54f2fb1107034a80ff3e0</IconKey>
+      <IconKey>d7586e3f7a80426c95ce47514711669c</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -19,7 +19,7 @@
 <Data>
     <Name>VS ---&gt; GIT ---&gt; Jenkins.Click</Name>
     <Description />
-    <StartTime>2019-04-08 14:59:57</StartTime>
+    <StartTime>2019-04-08 15:03:37</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -46,7 +46,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>6f5e4a94ed15475eba7c8180ce1dfdaf</IconKey>
+      <IconKey>8ba85c1165e245a3b816ae9401b18dc4</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -54,7 +54,7 @@
 <Data>
     <Name>VS Integration with GIT</Name>
     <Description>SwfWindow</Description>
-    <StartTime>2019-04-08 14:59:57</StartTime>
+    <StartTime>2019-04-08 15:03:37</StartTime>
     <Duration>2</Duration>
     <Result>Done</Result>
     <Extension>
@@ -86,7 +86,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>da0dec58c613408b8c156b76987555db</IconKey>
+      <IconKey>e886fb2d9ea9449294e8d09b4790b3d2</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -95,10 +95,10 @@
 <Data>
     <Name>Verify Label</Name>
     <Description>Label text is: 'VS ---&gt; GIT ---&gt; Jenkins ---&gt; Octane'</Description>
-    <StartTime>2019-04-08 14:59:59</StartTime>
+    <StartTime>2019-04-08 15:03:39</StartTime>
     <Result>Passed</Result>
     <Extension>
-      <IconKey>51a892438aa84f669cf996aa9a7b2e11</IconKey>
+      <IconKey>abacad91bd8a4e62aef1baab3351f869</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
       <IsPlainTextStepInfo>True</IsPlainTextStepInfo>
     </Extension>
@@ -109,7 +109,7 @@
 <Data>
     <Name>Close.Click</Name>
     <Description />
-    <StartTime>2019-04-08 14:59:59</StartTime>
+    <StartTime>2019-04-08 15:03:39</StartTime>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -132,7 +132,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>3ce18f713e9a46e9a22382898ac70047</IconKey>
+      <IconKey>3d9b2a04087342eab49b5fe4bc0e2ffb</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -140,8 +140,8 @@
 <Data>
     <Name>VS Integration with GIT</Name>
     <Description>SwfWindow</Description>
-    <StartTime>2019-04-08 14:59:59</StartTime>
-    <Duration>0</Duration>
+    <StartTime>2019-04-08 15:03:39</StartTime>
+    <Duration>1</Duration>
     <Result>Done</Result>
     <Extension>
       <TestObject>
@@ -172,7 +172,7 @@
           </Property>
         </Properties>
       </TestObject>
-      <IconKey>da0dec58c613408b8c156b76987555db</IconKey>
+      <IconKey>e886fb2d9ea9449294e8d09b4790b3d2</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -180,12 +180,12 @@
 <Data>
     <Name>Action1</Name>
     <Description />
-    <StartTime>2019-04-08 14:59:56</StartTime>
-    <Duration>3</Duration>
+    <StartTime>2019-04-08 15:03:36</StartTime>
+    <Duration>4</Duration>
     <Result>Passed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>8a2c7cfa0a7243d6a5ecd174c109ca6c</IconKey>
+      <IconKey>d1022ea84d6746d592118bd3bff7be1c</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
   </Data>
@@ -193,11 +193,11 @@
 <Data>
     <Name>Action0</Name>
     <Description />
-    <StartTime>2019-04-08 14:59:56</StartTime>
+    <StartTime>2019-04-08 15:03:36</StartTime>
     <Duration>4</Duration>
     <Result>Passed</Result>
     <Extension>
-      <IconKey>8eb86d3009714e3fa2c482304e6431c1</IconKey>
+      <IconKey>68751166262b4bdb88536202c6cdfc08</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Index>1</Index>
@@ -209,12 +209,12 @@
     <ToolName>HPE Unified Functional Testing</ToolName>
     <ToolVersion>14.02</ToolVersion>
     <Description />
-    <StartTime>2019-04-08 14:59:55</StartTime>
-    <Duration>5</Duration>
+    <StartTime>2019-04-08 15:03:36</StartTime>
+    <Duration>4</Duration>
     <Result>Passed</Result>
     <InputParameters />
     <Extension>
-      <IconKey>cae1754f20d6453d9b355fdd44a56b1c</IconKey>
+      <IconKey>cfd1d861f4e143ff99ec7354a60c19e3</IconKey>
       <IsPlainTextNodeName>True</IsPlainTextNodeName>
     </Extension>
     <Environment>
@@ -235,7 +235,7 @@
 </ReportNode>
 <GeneralInfo>
     <ResultName>VS - GIT - Jenkins - UFT Test</ResultName>
-    <RunStartTime>2019-04-08 14:59:55</RunStartTime>
+    <RunStartTime>2019-04-08 15:03:36</RunStartTime>
     <Timezone>-04:00:00</Timezone>
     <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
     <OrchestrationToolVersion>14.02</OrchestrationToolVersion>

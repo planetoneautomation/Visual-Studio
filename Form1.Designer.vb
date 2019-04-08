@@ -28,10 +28,10 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(26, 270)
+        Me.Button1.Location = New System.Drawing.Point(35, 164)
         Me.Button1.Margin = New System.Windows.Forms.Padding(4)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(1001, 43)
+        Me.Button1.Size = New System.Drawing.Size(992, 149)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "Close"
         Me.Button1.UseVisualStyleBackColor = True
