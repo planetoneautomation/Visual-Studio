@@ -28,10 +28,10 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(863, 276)
+        Me.Button1.Location = New System.Drawing.Point(381, 168)
         Me.Button1.Margin = New System.Windows.Forms.Padding(4)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(145, 31)
+        Me.Button1.Size = New System.Drawing.Size(230, 129)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "Close"
         Me.Button1.UseVisualStyleBackColor = True
@@ -40,7 +40,7 @@ Partial Class Form1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(125, 78)
+        Me.Label1.Location = New System.Drawing.Point(127, 56)
         Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(827, 55)
